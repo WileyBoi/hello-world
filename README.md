@@ -1,6 +1,5 @@
 # hello-world
-Just another repository
-(README, a message to the world and myself)
+(My first GitHub repository, a message to the world and myself)
 
 Hello There!
 
